@@ -367,7 +367,14 @@
          "Kab. Bojonegoro",
          "Kab. Ngawi",
          "Kab. Magetan",
-         "Kab. Madiun",
+         { 
+            "Kab. Madiun": 
+            [
+               "Dolopo",
+               "Pagotan",
+               "Dagangan",
+            ]
+         }
          "Kab. Nganjuk",
          "Kab. Jombang",
          "Kab. Mojokerto",
